@@ -10,20 +10,6 @@ The goal of the project is to transform raw sales data into meaningful business 
 
 ---
 
-## 📊 Power BI Dashboard
-
-The interactive Power BI dashboard provides an overview of sales performance, product performance, and ordering patterns.
-
-### Business Overview
-
-![Pizza Sales Business Overview](pizza-sales-business-overview.png)
-
-### Product Performance
-
-![Pizza Sales Product Performance](pizza-sales-product-performance.png)
-
----
-
 ## 🎯 Business Questions
 
 The project focuses on answering the following business questions:
@@ -102,6 +88,14 @@ The Power BI dashboard converts the SQL analysis into an interactive visual repo
 * Pizza size analysis
 * Top and bottom performing products
 * Interactive navigation between dashboard pages
+
+### Business Overview
+
+![Pizza Sales Business Overview](pizza-sales-business-overview.png)
+
+### Product Performance
+
+![Pizza Sales Product Performance](pizza-sales-product-performance.png)
 
 The Power BI report is available in:
 
